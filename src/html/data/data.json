@@ -1,0 +1,14 @@
+{
+    "author"  : "Simpllo.com",
+    "email"   : "support@simpllo.com",
+
+    "links" : {
+        "facebook"  : "https://facebook.com/Simpllowebsites",
+        "twitter"   : "https://twitter.com/simpllowebsites",
+        "github"    : "https://github.com/simpllowebsites/simpllo.com",
+        "appseed"   : "https://appseed.us?ref=simpllo",
+        "instagram" : "https://instagram.com/simpllowebsites"
+    }, 
+
+    "LAST_KEY" : "NA"
+}
