@@ -10,6 +10,6 @@ All apps coded by Simpllo are licensed under the **Creative Commons Attribution 
 - Preserve the footer credit ©Simpllo
 
 
-#### Looking for attribution-free versions?
+### Looking for attribution-free versions?
 
 Please access the [license page](https://simpllo.com/license.html)
