@@ -9,7 +9,7 @@ All apps coded by Simpllo are licensed under the **Creative Commons Attribution 
 - Change them however you like
 - Preserve the footer credit ©Simpllo
 
+For **attribution-free versions**, please access the [license page](https://simpllo.com/license.html)
 
-### Looking for attribution-free versions?
-
-Please access the [license page](https://simpllo.com/license.html)
+---
+Made with ♥ by [Simpllo.com](https://simpllo.com)
