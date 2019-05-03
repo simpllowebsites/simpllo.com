@@ -3,9 +3,10 @@
     "email"   : "support@simpllo.com",
 
     "links" : {
+        "download"  : "https://static.simpllo.com/apps/simpllo.zip",
+        "github"    : "https://github.com/simpllowebsites/simpllo.com.git",
         "facebook"  : "https://facebook.com/Simpllowebsites",
         "twitter"   : "https://twitter.com/simpllowebsites",
-        "github"    : "https://github.com/simpllowebsites/simpllo.com",
         "appseed"   : "https://appseed.us?ref=simpllo",
         "instagram" : "https://instagram.com/simpllowebsites"
     }, 
